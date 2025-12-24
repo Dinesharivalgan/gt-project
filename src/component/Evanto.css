@@ -1,0 +1,149 @@
+.envato{
+    background-color:#262626;
+    color: white;
+    height: 50px;
+    text-decoration: none;
+    position:absolute;
+    width: 1340px;
+ 
+
+}
+
+.env{
+    font-weight: 60;
+    position: absolute;
+    right:84%;
+    
+}
+
+.green{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+.button{
+    background-color:#7AA93C;
+    font-size: 25px;
+    height: 35px;
+    border-radius: 8px;
+    position: fixed;
+    right: 15px;
+    top: 10px;
+    color: white;
+    text-decoration: none;
+    
+   
+}
+
+.blue{
+    background-color: #1C799B;
+    width: 1400px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    font-size: 15px;
+    color: white;
+    font-weight: 200px;
+
+}
+
+
+.buy{
+    margin-left:100px;
+    color:white;
+
+}
+
+.yellow{
+    color: rgb(209, 209, 80);
+}
+
+.track{
+    width: 30px;
+    height: 30px;
+}
+
+
+ .order:hover{
+    text-transform: uppercase;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.about{
+   margin-left: 100px;
+}
+
+.about:hover{
+    text-transform: uppercase;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.us{
+    margin-left:20px;
+}
+
+.us:hover{text-transform: uppercase;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.eng{
+    margin-left:30px;
+    background-color: #1C799B;
+    color: white;
+    border-style: none;
+}
+
+.eng:hover{
+    text-transform: uppercase;
+    text-decoration: underline;
+    cursor: pointer;
+   
+
+}
+
+.usd{
+    margin-left:28px;
+    background-color: #1C799B;
+    color: white;
+    border-style: none;
+}
+
+.usd:hover{
+    text-transform: uppercase;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.market{
+    width: 150px;
+    height: 50px;
+    margin-top: 100px;
+}
+
+.search{
+    width: 500px;
+    height: 40px;
+    border-style:solid;
+    margin-left: 450px;
+    position: absolute;
+    top: 110px;
+  
+    
+
+}
+.drop{
+    margin-left: 300px;
+    margin-top: -40px;
+    width:120px;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.bar{
+    text-align: center;
+}
