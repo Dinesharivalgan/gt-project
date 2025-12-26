@@ -1,0 +1,61 @@
+.sec{
+    height: 700px;
+}
+
+.second{
+    background-color: #E9FFFF;
+    height: 650px;
+   
+}
+
+
+
+.save{color: #31BF7E;
+    font-size: 20px;
+    font-weight: 100px;
+
+}
+
+
+.he{position: relative;
+    color:#121535;
+    font-weight: 1300px;
+    font-size: 50px;
+
+}
+
+.exp{
+    color: #1C799B;
+}
+.explore{
+    background-color: #1C799B;
+    border-radius: 20px;
+    border: none;
+    height: 30px;
+    color: white;
+    
+}
+.ex{
+    color: white;
+    text-decoration: none;
+}
+
+.dollar{
+    color:#DC2828;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+
+.slide{
+    width: 550px;
+    height: 450px;
+    margin-left: 700px;
+}
+.spin{
+ color:#1C799B;
+   position: relative;
+   left: 50%;
+   top: -60px;
+  
+}
