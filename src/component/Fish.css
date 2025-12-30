@@ -1,0 +1,29 @@
+.th{
+    height: 300px;
+}
+
+
+.third{    
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    justify-content: space-evenly;
+    
+    
+ 
+
+}
+
+.milk{
+   
+    background-color:  #E8F9E9;;
+    border-color:#E8F9E9;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.desserts{
+    margin-left: 20px;
+}
+
